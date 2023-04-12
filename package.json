@@ -1,6 +1,6 @@
 {
   "name": "razorpay-api-wrapper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The Razorpay Node.js application is a payment gateway that provides an interface for creating and processing payments. It includes the PaymentService and PaymentGateway components, making it a reliable solution for businesses that require online payment processing capabilities.",
   "main": "index.js",
   "directories": {
