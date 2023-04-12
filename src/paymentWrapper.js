@@ -16,4 +16,4 @@ class PaymentGateway {
   }
 }
 
-module.exports = PaymentWrapper;
+module.exports = PaymentGateway;
