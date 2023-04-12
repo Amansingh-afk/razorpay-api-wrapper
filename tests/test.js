@@ -1,8 +1,9 @@
 const chai = require("chai");
 const expect = chai.expect;
 const sinon = require("sinon");
+const Razorpay = require("razorpay");
 
-const PaymentGateway = require("./paymentWrapper");
+const PaymentGateway = require("../src/paymentWrapper");
 
 describe("PaymentGateway", () => {
   const key_id = "key_id";
